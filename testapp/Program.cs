@@ -2,8 +2,8 @@
 using System.Text;
 using System.Threading;
 
-int width = 50;
-int height = 30;
+int width = 55;
+int height = 35;
 
 int windowWidth;
 int windowHeight;
